@@ -2,7 +2,9 @@
 
 ![XDefiant_3](https://github.com/user-attachments/assets/3d996ee9-27bc-44c9-acf8-ce212914791d)
 
-We know very well how difficult it is to win games absolutely all the time, and we bet everyone would like to have such an opportunity.
+---
+
+We know very well how difficult it is to win games absolutely every time, and we bet everyone would like to have such an opportunity.
 
 Now it's possible! We are glad to introduce you - Storm
 
