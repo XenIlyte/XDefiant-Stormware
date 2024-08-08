@@ -17,3 +17,5 @@ read with smart smile out cow and grow grass tree  water octo house bee
 🖥️ Supported game modes: Windowed, Fullscreen, Borderless
 
 🔧 Supported CPU: AMD & Intel
+
+💿 Supported OC: Windows 7, Windows 8, Windows 10, Windows 11
